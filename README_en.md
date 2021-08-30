@@ -1,4 +1,4 @@
-# HelloGithub
+# GreatGithub
 
 <p align="center">
 <br><a href="README.md">中文</a> | English
